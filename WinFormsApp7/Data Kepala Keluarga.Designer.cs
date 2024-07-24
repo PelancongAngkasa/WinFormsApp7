@@ -309,9 +309,9 @@
             label3.AutoSize = true;
             label3.Location = new Point(18, 122);
             label3.Name = "label3";
-            label3.Size = new Size(74, 15);
+            label3.Size = new Size(33, 15);
             label3.TabIndex = 2;
-            label3.Text = "Alamat Jalan";
+            label3.Text = "Jalan";
             // 
             // Alamat1
             // 
@@ -340,7 +340,6 @@
             Kode_Pos.ReadOnly = true;
             Kode_Pos.Size = new Size(70, 23);
             Kode_Pos.TabIndex = 16;
-            Kode_Pos.TabStop = false;
             Kode_Pos.Text = "16120";
             Kode_Pos.TextChanged += Kode_Pos_TextChanged;
             // 
@@ -362,7 +361,6 @@
             RT.ReadOnly = true;
             RT.Size = new Size(42, 23);
             RT.TabIndex = 17;
-            RT.TabStop = false;
             RT.Text = "001";
             RT.TextChanged += RT_TextChanged;
             // 
@@ -384,7 +382,6 @@
             RW.ReadOnly = true;
             RW.Size = new Size(42, 23);
             RW.TabIndex = 18;
-            RW.TabStop = false;
             RW.Text = "001";
             RW.TextChanged += RW_TextChanged;
             // 

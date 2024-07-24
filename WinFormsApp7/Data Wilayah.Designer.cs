@@ -117,7 +117,6 @@
             Kode_Provinsi.ReadOnly = true;
             Kode_Provinsi.Size = new Size(53, 23);
             Kode_Provinsi.TabIndex = 0;
-            Kode_Provinsi.TabStop = false;
             Kode_Provinsi.Text = "32";
             Kode_Provinsi.TextChanged += Kode_Provinsi_TextChanged;
             // 
@@ -129,7 +128,6 @@
             Nama_Provinsi.ReadOnly = true;
             Nama_Provinsi.Size = new Size(438, 23);
             Nama_Provinsi.TabIndex = 1;
-            Nama_Provinsi.TabStop = false;
             Nama_Provinsi.Text = "Jawa Barat";
             Nama_Provinsi.TextChanged += Nama_Provinsi_TextChanged;
             // 
@@ -151,7 +149,6 @@
             Kode_Kabupaten.ReadOnly = true;
             Kode_Kabupaten.Size = new Size(53, 23);
             Kode_Kabupaten.TabIndex = 2;
-            Kode_Kabupaten.TabStop = false;
             Kode_Kabupaten.Text = "01";
             Kode_Kabupaten.TextChanged += Kode_Kabupaten_TextChanged;
             // 
@@ -163,7 +160,6 @@
             Nama_Kabupaten.ReadOnly = true;
             Nama_Kabupaten.Size = new Size(438, 23);
             Nama_Kabupaten.TabIndex = 3;
-            Nama_Kabupaten.TabStop = false;
             Nama_Kabupaten.Text = "Kabupaten Bogor";
             Nama_Kabupaten.TextChanged += Nama_Kabupaten_TextChanged;
             // 
@@ -185,7 +181,6 @@
             Kode_Kecamatan.ReadOnly = true;
             Kode_Kecamatan.Size = new Size(53, 23);
             Kode_Kecamatan.TabIndex = 4;
-            Kode_Kecamatan.TabStop = false;
             Kode_Kecamatan.Text = "11";
             Kode_Kecamatan.TextChanged += Kode_Kecamatan_TextChanged;
             // 
@@ -197,7 +192,6 @@
             Nama_Kecamatan.ReadOnly = true;
             Nama_Kecamatan.Size = new Size(438, 23);
             Nama_Kecamatan.TabIndex = 5;
-            Nama_Kecamatan.TabStop = false;
             Nama_Kecamatan.Text = "Kecamatan Ciseeng";
             Nama_Kecamatan.TextChanged += Nama_Kecamatan_TextChanged;
             // 
@@ -228,7 +222,6 @@
             Nama_Kelurahan.ReadOnly = true;
             Nama_Kelurahan.Size = new Size(438, 23);
             Nama_Kelurahan.TabIndex = 7;
-            Nama_Kelurahan.TabStop = false;
             Nama_Kelurahan.Text = "Kelurahan CIBEUTEUNG MUARA";
             Nama_Kelurahan.TextChanged += Nama_Kelurahan_TextChanged;
             // 
